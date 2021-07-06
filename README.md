@@ -1,4 +1,4 @@
-###simple example of integration of ckeditor 5 online builder with CI3
+## simple example of integration of ckeditor 5 online builder with CI3
 
 Must know:
 1. made with ci3 and ckeditor5 online builder
